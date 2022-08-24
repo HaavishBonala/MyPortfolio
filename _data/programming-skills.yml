@@ -1,0 +1,11 @@
+- name: HTML5/CSS3
+  percentage: 65
+  color: danger
+
+- name: Java(Selenium,API Testing)
+  percentage: 80
+  color:
+
+- name: Python(Selenium)
+  percentage: 70
+  color: secondary
