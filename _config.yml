@@ -94,7 +94,6 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
-  - Documentation.txt
   - README.md
   - CONTRIBUTING.md
   - LICENSE
